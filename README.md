@@ -12,5 +12,5 @@ Since some attributes of the dataset aren't relevant to our analysis, they have 
 USED / OLD CARS PRICE PREDICTION MODEL (Machine Learning)
 This repository contains a project using Machine Learning and Data Analysis.
  
- 
-![image](https://user-images.githubusercontent.com/26148699/185761036-db024c01-05ea-447e-9b16-c103ba852bfd.png)
+ Dataset --------> Train --------> use by algorithm -----------> Model
+![image](https://user-images.githubusercontent.com/26148699/185761111-fe8630c7-55fa-4aff-b371-de22dfdc295f.png)
